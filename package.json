@@ -1,0 +1,17 @@
+{
+  "name": "ozuxbot",
+  "version": "1.0.0",
+  "description": "a weather bot for telegram",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Grenié - @picsoung",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api":"*",
+    "q": "^1.4.1",
+    "request": "^2.69.0",
+    "underscore": "^1.8.3"
+  }
+}
